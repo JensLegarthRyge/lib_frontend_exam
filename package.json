@@ -1,0 +1,7 @@
+{
+  "name": "frontend-start-code",
+  "version": "1.0.0",
+  "dependencies": {
+    "navigo": "^8.11.1"
+  }
+}
